@@ -1,0 +1,14 @@
+{
+  "name": "mstomatao-10182024-homework",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "app": "cd app && npm i && npm run dev",
+    "server": "cd server && sbt run"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
